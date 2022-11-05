@@ -19,15 +19,15 @@
     *** https://www.markdownguide.org/basic-syntax/#reference-style-links
     -->
 
-    [![Contributors][contributors-shield]][contributors-url]
-    [![Forks][forks-shield]][forks-url]
-    [![Stargazers][stars-shield]][stars-url]
-    [![Issues][issues-shield]][issues-url]
-    [![MIT License][license-shield]][license-url]
-    [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 <div align="center">
     <a href="https://github.com/kurashyna/c">
         <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -36,7 +36,7 @@
 <h3 align="center">MonEcologie</h3>
 
 <p align="center">
-    project_description
+    MonEcologie est une application mobile qui vise à sensibiliser sur l'impact personnel de chacun
     <br />
     <a href="https://github.com/kurashyna/MonEcologie"><strong>Explore the docs »</strong></a>
     <br />
