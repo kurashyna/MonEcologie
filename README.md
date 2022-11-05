@@ -19,19 +19,26 @@
     *** https://www.markdownguide.org/basic-syntax/#reference-style-links
     -->
 
+[Contributors][contributors-shield]][contributors-url]
+
+[Forks][forks-shield]][forks-url]
+
+[Stargazers][stars-shield]][stars-url]
+
+[Issues][issues-shield]][issues-url]
+
+[MIT License][license-shield]][license-url]
+
+[LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 <div align="center">
+    <!--
     <a href="https://github.com/kurashyna/c">
         <img src="images/logo.png" alt="Logo" width="80" height="80">
-        </a>
+    </a> -->
 
 <h3 align="center">MonEcologie</h3>
 
@@ -41,8 +48,9 @@
     <a href="https://github.com/kurashyna/MonEcologie"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <!--
     <a href="https://github.com/kurashyna/MonEcologie">View Demo</a>
-    ·
+    · -->
     <a href="https://github.com/kurashyna/MonEcologie/issues">Report Bug</a>
     ·
     <a href="https://github.com/kurashyna/MonEcologie/issues">Request Feature</a>
@@ -82,25 +90,16 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
+<!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+-->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 
