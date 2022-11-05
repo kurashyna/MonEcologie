@@ -30,10 +30,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <!--
-    <a href="https://github.com/kurashyna/c">
-        <img src="images/logo.png" alt="Logo" width="80" height="80">
-    </a> -->
+    <a href="https://github.com/kurashyna/monecologie">
+        <img src="Sprite-001.png" alt="Logo" width="80" height="80">
+    </a>
 
 <h3 align="center">MonEcologie</h3>
 
