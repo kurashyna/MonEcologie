@@ -19,17 +19,17 @@
     *** https://www.markdownguide.org/basic-syntax/#reference-style-links
     -->
 
-[Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 
-[Forks][forks-shield]][forks-url]
+[![Forks][forks-shield]][forks-url]
 
-[Stargazers][stars-shield]][stars-url]
+[![Stargazers][stars-shield]][stars-url]
 
-[Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][issues-url]
 
-[MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]
 
-[LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -96,13 +96,12 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-
-* [![React][React.js]][React-url]
+* [![React][React.js]][React-url] Native
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-
+<!--
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -142,7 +141,7 @@ const API_KEY = 'ENTER YOUR API';
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+-->
 <!-- USAGE EXAMPLES -->
 
 ## Usage
@@ -207,7 +206,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+<!-- Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com -->
 
 Project Link: [https://github.com/kurashyna/MonEcologie](https://github.com/kurashyna/MonEcologie)
 
