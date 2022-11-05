@@ -20,15 +20,10 @@
     -->
 
 [![Contributors][contributors-shield]][contributors-url]
-
 [![Forks][forks-shield]][forks-url]
-
 [![Stargazers][stars-shield]][stars-url]
-
 [![Issues][issues-shield]][issues-url]
-
 [![MIT License][license-shield]][license-url]
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -44,10 +39,11 @@
 
 <p align="center">
     MonEcologie est une application mobile qui vise à sensibiliser sur l'impact personnel de chacun
+    <!--
     <br />
     <a href="https://github.com/kurashyna/MonEcologie"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
+    <br /> -->
     <!--
     <a href="https://github.com/kurashyna/MonEcologie">View Demo</a>
     · -->
@@ -67,23 +63,24 @@
             <a href="#about-the-project">About The Project</a>
             <ul>
                 <li><a href="#built-with">Built With</a></li>
-                </ul>
-                </li>
-                <li>
-                    <a href="#getting-started">Getting Started</a>
-                    <ul>
-                        <li><a href="#prerequisites">Prerequisites</a></li>
-                        <li><a href="#installation">Installation</a></li>
-                        </ul>
-                        </li>
-                        <li><a href="#usage">Usage</a></li>
-                        <li><a href="#roadmap">Roadmap</a></li>
-                        <li><a href="#contributing">Contributing</a></li>
-                        <li><a href="#license">License</a></li>
-                        <li><a href="#contact">Contact</a></li>
-                        <li><a href="#acknowledgments">Acknowledgments</a></li>
-                        </ol>
-                        </details>
+            </ul>
+        </li>
+        <!--
+        <li>
+            <a href="#getting-started">Getting Started</a>
+            <ul>
+                <li><a href="#prerequisites">Prerequisites</a></li>
+                <li><a href="#installation">Installation</a></li>
+            </ul>
+        </li> -->
+        <li><a href="#usage">Usage</a></li>
+        <li><a href="#roadmap">Roadmap</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="#license">License</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#acknowledgments">Acknowledgments</a></li>
+    </ol>
+</details>
 
 
 
@@ -96,7 +93,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-* [![React][React.js]][React-url] Native
+* [![ReactNative][ReactNative]][ReactNative-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,7 +212,7 @@ Project Link: [https://github.com/kurashyna/MonEcologie](https://github.com/kura
 
 
 <!-- ACKNOWLEDGMENTS -->
-
+<!--
 ## Acknowledgments
 
 * []()
@@ -223,7 +220,7 @@ Project Link: [https://github.com/kurashyna/MonEcologie](https://github.com/kura
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -251,7 +248,7 @@ Project Link: [https://github.com/kurashyna/MonEcologie](https://github.com/kura
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/lucas-le-menn-82493422b/
 
 [product-screenshot]: images/screenshot.png
 
@@ -262,6 +259,10 @@ Project Link: [https://github.com/kurashyna/MonEcologie](https://github.com/kura
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 
 [React-url]: https://reactjs.org/
+
+[ReactNative]: https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+[ReactNative-url]: https://reactnative.dev/
 
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 
