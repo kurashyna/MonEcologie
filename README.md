@@ -92,8 +92,7 @@
 -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
-* [![ReactNative][ReactNative]][ReactNative-url]
+### Built With [![ReactNative][ReactNative]][ReactNative-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,10 +142,7 @@ const API_KEY = 'ENTER YOUR API';
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos
-work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+L'application n'est ni disponible sur les stores, ni ouverte au testing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,13 +152,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-- [ ] Nested Feature
-
-See the [open issues](https://github.com/kurashyna/MonEcologie/issues) for a full list of proposed features (and
-known issues).
+- [ ] Compléter son profil
+- [ ] Définir ses objectifs
+- [ ] Indiquer ses évolutions
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
